@@ -35,7 +35,7 @@ Here is the sample foot [^]
 - [ ] task 3
 - [ ] task 4
 
-| TITLE| Description | 
+| TITLE| Description |
 
 
 | ----| ---- | 
