@@ -22,4 +22,4 @@ _Digital marketing_ also called online marketing, is the promotion of ***brands*
 ![APPLE](https://github.com/Subashinisubburaj/Tech-writing/assets/143898301/4ca29556-7eff-4b1d-8876-149b95d85c3a)
 
 > The concept of buying something you saw onsocial media is nothing new. 
-```Understanding the advantages of digital marketing can help your business prioritize digital programs and dial in your marketing strategies to amplify winning tactics.
+``` QUOTE
