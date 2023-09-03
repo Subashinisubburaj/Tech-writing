@@ -5,7 +5,7 @@
 ###### Digital Marketing Whitepaper
 ####### Digital Marketing Whitepaper
 
-== Real time application ==
+== Real time application: ==
 --------------------------------------------------------------------------------------------------------------------
 _Digital marketing_ also called online marketing, is the promotion of ***brands*** to connect with potential ___customers___ using the internet and other forms of digital __#communication#__. This includes not only ##_email_##, social media, and web-based advertising, but also text and __#multimediamessages#__ as a __#marketing__channel#__.
 
@@ -24,7 +24,8 @@ _Digital marketing_ also called online marketing, is the promotion of ***brands*
 ![APPLE](https://github.com/Subashinisubburaj/Tech-writing/assets/143898301/4ca29556-7eff-4b1d-8876-149b95d85c3a)
 
 > The concept of buying something you saw onsocial media is nothing new. 
-``` QUOTE
+```QUOTE```
 
 Here is the sample foot [^]
+=== Quote ===
 [^1] This is my foot
