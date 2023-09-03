@@ -19,3 +19,4 @@ _Digital marketing_ also called online marketing, is the promotion of ***brands*
     # LIST 6
   
 [CLICK HERE](https://www.google.com/search?q=batch+normalization&oq=BATCH&aqs=chrome.3.69i57j0i512j0i433i512l2j0i512l3j69i61.9191j0j7&sourceid=chrome&ie=UTF-8)
+![APPLE](https://github.com/Subashinisubburaj/Tech-writing/assets/143898301/4ca29556-7eff-4b1d-8876-149b95d85c3a)
