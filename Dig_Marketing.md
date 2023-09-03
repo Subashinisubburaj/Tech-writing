@@ -39,4 +39,4 @@ Here is the sample foot [^]
 | ----| ---- | 
 | Heading| Title | 
 
-:Joy:
+😂
