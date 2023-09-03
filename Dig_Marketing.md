@@ -30,7 +30,7 @@ Here is the sample foot [^]
 ===Quote===
 [^1] This is my foot
 
--[x] task 1
--[] task 2
--[] task 3
--[] task 4
+- [x] task 1
+- [ ] task 2
+- [ ] task 3
+- [ ] task 4
